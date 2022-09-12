@@ -15,7 +15,7 @@ using KLinkedLists.controller;
 using KLinkedLists.util;
 using KLinkedLists.Util;
 
-namespace Frequency
+namespace KLinkedLists
 {
     public class Program
     {
