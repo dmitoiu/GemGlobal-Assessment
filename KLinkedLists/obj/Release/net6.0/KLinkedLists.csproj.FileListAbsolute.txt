@@ -1,0 +1,15 @@
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\bin\Release\net6.0\KLinkedLists.exe
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\bin\Release\net6.0\KLinkedLists.deps.json
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\bin\Release\net6.0\KLinkedLists.runtimeconfig.json
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\bin\Release\net6.0\KLinkedLists.dll
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\bin\Release\net6.0\KLinkedLists.pdb
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.csproj.AssemblyReference.cache
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.AssemblyInfoInputs.cache
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.AssemblyInfo.cs
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.csproj.CoreCompileInputs.cache
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.dll
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\refint\KLinkedLists.dll
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.pdb
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\KLinkedLists.genruntimeconfig.cache
+D:\Dev\Console Apps\KLinkedLists\KLinkedLists\obj\Release\net6.0\ref\KLinkedLists.dll
